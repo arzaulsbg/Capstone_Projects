@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Author
 
-**Name:** Arzaul Haque  
+**Name:** Arzaul Haque  & Raja Babu
 **Course:** B.Tech in AI & Data Science, Chandigarh University  
 **Project Title:** AzaanCircles — A MERN Stack Social Media Application  
 **Deployment:** AzaanCircles Live Demo (Heroku)
